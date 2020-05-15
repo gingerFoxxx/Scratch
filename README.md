@@ -1,2 +1,2 @@
-# Scretch
+# Scratch MIT
 https://scratch.mit.edu/projects/editor/?tutorial=getStarted
